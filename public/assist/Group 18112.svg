@@ -1,0 +1,10 @@
+<svg id="Group_18112" data-name="Group 18112" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Rectangle_4032" data-name="Rectangle 4032" fill="#fff" stroke="#000" stroke-width="0.5">
+    <rect width="48" height="48" rx="4" stroke="none"/>
+    <rect x="0.25" y="0.25" width="47.5" height="47.5" rx="3.75" fill="none"/>
+  </g>
+  <g id="Rectangle_4034" data-name="Rectangle 4034" transform="translate(36.866 15.5) rotate(90)" fill="rgba(174,174,178,0)" stroke="#000" stroke-width="1">
+    <rect width="17" height="25" rx="2" stroke="none"/>
+    <rect x="0.5" y="0.5" width="16" height="24" rx="1.5" fill="none"/>
+  </g>
+</svg>
