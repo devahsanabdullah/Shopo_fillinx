@@ -2,7 +2,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family:sofiapro-light, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
@@ -30,3 +30,11 @@ a {
 .w-calc {
   width:calc(100% - 450px)
 }
+
+
+@font-face {
+  font-family: 'sofiapro-light';
+  src: url('../assest/font/sofiapro-light.otf');
+  font-weight: 400;
+  font-style: normal;
+  }
