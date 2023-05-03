@@ -20,7 +20,7 @@ const index = () => {
       width="22.973"
       height="16.33"
       viewBox="0 0 22.973 16.33"
-      className='h-3 w-4 mr-2'
+      className='h-3 w-3 mr-2'
     >
       <g data-name="Group 18001" transform="translate(-1874 -4044.072)">
         <path

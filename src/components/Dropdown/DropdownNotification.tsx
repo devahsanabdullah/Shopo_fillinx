@@ -11,27 +11,11 @@ export default function DropdownNotification() {
     <Menu as="div" className="relative inline-block text-left">
       <div>
         <Menu.Button className="inline-flex w-full justify-center gap-x-1.5 border-none outline-none  px-1 py-2 text-sm font-semibold text-gray-900   hover:bg-gray-50">
-        <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="23.963"
-      height="23.963"
-      viewBox="0 0 23.963 23.963"
-    >
-      <defs>
-        <clipPath id="clip-path">
-          <path d="M0 0h23.963v23.963H0z" data-name="Path 23126"></path>
-        </clipPath>
-      </defs>
-      <g clipPath="url(#clip-path)">
-        <g clipPath="url(#clip-path)" data-name="Group 18099">
-          <path
-            d="M99.249 53.741l-1.717-3.434a.8.8 0 01-.1-.408v-2.657a6.038 6.038 0 00-5.061-5.942v-1.213a1 1 0 00-2 0V41.3a6.038 6.038 0 00-5.061 5.939V49.9a.8.8 0 01-.1.408l-1.71 3.433a1 1 0 00.888 1.449h13.973a1 1 0 00.888-1.449zm-6.878 2.945h-4.143a3.229 3.229 0 006.289 0z"
-            data-name="Path 23123"
-            transform="translate(-79.391 -37.216)"
-          ></path>
-        </g>
-      </g>
-    </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="w-6 h-6">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M14.857 17.082a23.848 23.848 0 005.454-1.31A8.967 8.967 0 0118 9.75v-.7V9A6 6 0 006 9v.75a8.967 8.967 0 01-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 01-5.714 0m5.714 0a3 3 0 11-5.714 0" />
+</svg>
+
+
         </Menu.Button>
       </div>
 

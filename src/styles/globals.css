@@ -24,3 +24,9 @@ a {
     background: #f7f7f7;
   }
 }
+.w-calc {
+  width:calc(100% - 450px)
+}
+.w-calc {
+  width:calc(100% - 450px)
+}

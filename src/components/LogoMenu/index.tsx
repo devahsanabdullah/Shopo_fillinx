@@ -7,7 +7,7 @@ import React from 'react'
 const index = () => {
   return (
     <div className='border-2 rounded-md shadow-md w-full h-full  '>
-        <div className='flex items-center justify-around mt-6'>
+        <div className='flex items-center justify-between mx-3 mt-4'>
             {/* <HiOutlineMenuAlt1 className='text-black text-2xl' /> */}
             <MenuLeft />
             <button className=' border-[1px] border-black text-black px-3 py-[3px]'>Logo Here</button>

@@ -10,7 +10,7 @@ const index = () => {
       <div className="w-1/4">
         <div className="relative mb-2">
           <div className="w-7 h-7 mx-auto bg-[#0088f5] rounded-full text-lg text-white flex items-center">
-            <span className="text-center text-white w-full">1</span>
+            <span className="text-center text-[14px] text-white w-full">1</span>
           </div>
         </div>
         <div className="text-[12px]  text-center text-[#0088f5] ">Listing</div>
@@ -33,7 +33,7 @@ const index = () => {
             </div>
           </div>
           <div className="w-7 h-7 mx-auto bg-[#0088f5] rounded-full text-lg text-white flex items-center">
-            <span className="text-center text-white w-full">2</span>
+            <span className="text-center text-[14px] text-white w-full">2</span>
           </div>
         </div>
         <div className="text-[12px]  text-[#0088f5] text-center ">Account</div>
@@ -56,7 +56,7 @@ const index = () => {
             </div>
           </div>
           <div className="w-7 h-7 mx-auto bg-white border-2 border-gray-200 rounded-full text-lg text-white flex items-center">
-            <span className="text-center text-gray-600 w-full">3</span>
+            <span className="text-center text-[14px] text-gray-600 w-full">3</span>
           </div>
         </div>
         <div className="text-[12px]  text-center text-[#0088f5] ">Go Live</div>
